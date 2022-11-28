@@ -81,6 +81,8 @@ Basta con hacer unos ajustes para obtener lo siguiente:
 
 # Sobre Clojure
 
+![images/clojure-logo.png](images/clojure-logo.png)
+
 Clojure es un _lenguaje de programación funcional_ encontrado en distintas plataformas o entornos
 de ejecución, así como un lenguaje de programación que ha influenciado a otros:
 
@@ -225,14 +227,8 @@ expresiones en el *prompt* (`clj:proyecto-de-clojure.core:>`) del REPL.
 En el siguiente video podrás encontrar las mismas instrucciones expuestas en los anteriores puntos
 para configurar a VSCode y Calva, así como los pasos para ejecutar un REPL en VSCode.
 
-<iframe
-  width="560"
-  height="315"
-  src="https://www.youtube.com/embed/6uUynWkMDGM"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+
+[![Setup Clojure and run a REPL in VS Code Using Calva](https://img.youtube.com/vi/6uUynWkMDGM/0.jpg)](https://www.youtube.com/watch?v=6uUynWkMDGM)
 
 # Créditos
 
